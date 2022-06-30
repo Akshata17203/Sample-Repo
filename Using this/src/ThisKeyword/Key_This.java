@@ -71,6 +71,7 @@ public class Key_This {
 		
 		//type6
 		kt.method();
+		raja
 	}
 
 }
